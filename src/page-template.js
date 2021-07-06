@@ -61,7 +61,7 @@ const generateIntern = function (intern) {
     `
 };
 
-// push array to page 
+// push array of cards to the page 
 generateHTML = (data) => {
 
     // array for cards 
@@ -94,10 +94,10 @@ generateHTML = (data) => {
         
     }
 
-    // joining strings 
+    
     const employeeCards = pageArray.join('')
 
-    // return to generated page
+    // return the generated page
     const generateTeam = generateTeamPage(employeeCards); 
     return generateTeam;
 
