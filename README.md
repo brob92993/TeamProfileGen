@@ -23,7 +23,11 @@
   
   ## Usage
   
-  ![Walkthrough Video](Assets\img\FullTeamProfileWalkthrough.gif)
+  ![Walkthrough1](Assets\img\TeamProfileWalkthrough1.gif)
+
+  ![Walkthrough2](Assets\img\TeamProfileWalkthrough2.gif)
+
+  ![Walkthrough3](Assets\img\TeamProfileWalkthrough3.gif)
   
   ## License
     
@@ -34,7 +38,7 @@
   
   To run tests, run the following command: "npm test"
   
-  ![Test Walkthrough](Assets\img\Successfultests.gif)
+  ![Successful Tests Pic](Assets\img\SuccessfulTestsPic.PNG)
     
   ## Questions  
 
