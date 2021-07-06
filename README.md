@@ -23,11 +23,8 @@
   
   ## Usage
   
-  ![Walkthrough1](Assets/img/TeamProfileWalkthrough1.gif)
+  ![Walkthrough1](Assets/img/FullTeamProfileWalkthrough.gif)
 
-  ![Walkthrough2](Assets/img/TeamProfileWalkthrough2.gif)
-
-  ![Walkthrough3](Assets/img/TeamProfileWalkthrough3.gif)
   
   ## License
     
